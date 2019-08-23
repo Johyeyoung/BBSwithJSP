@@ -1,0 +1,10 @@
+@import url(http://fonts.googleapis.com/earlyaccess/nonumgothic.css);
+@import url(http://fonts.googleapis.com/earlyaccess/hanna.css);
+*{
+	font-family : 'Nanum Gothic';
+}
+h1{
+	font-family : 'Hanna';
+}
+
+<!--웹 폰트를 이용하여 웹사이트내에서 사용되는 글씨체를 내맘대로 구축 -->
